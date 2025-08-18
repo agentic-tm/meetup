@@ -1,0 +1,53 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
+out/
+
+# Node modules (if using any web/JS tools)
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Sensitive/private files
+private/
+confidential/
