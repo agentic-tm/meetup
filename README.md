@@ -18,7 +18,3 @@ agentic.tm is a meetup focused on agentic coding - exploring autonomous AI agent
 ## Contributing
 
 Community contributions are welcome! Please feel free to submit pull requests with improvements, additional resources, or corrections.
-
-## Contact
-
-For more information about agentic.tm meetups, please visit [agentic.tm](https://agentic.tm)
