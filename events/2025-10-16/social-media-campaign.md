@@ -1,20 +1,20 @@
 # Social Media Campaign - 4 Post Strategy
-## agentic.tm Meetup #1 - August 28, 2025
+## agentic.tm Meetup #1 - October 16, 2025
 
 ---
 
-## 📢 POST 1: ANNOUNCEMENT (August 19)
+## 📢 POST 1: ANNOUNCEMENT (October 7)
 
 ### LinkedIn/Facebook
 
 🤖 **AGENTIC.TM LAUNCHES IN TIMIȘOARA!**
 
-Join us on August 28th at CoworkGarden, starting at 18:30, for an evening dedicated to agentic coding - where AI meets IDE and your code starts writing itself (almost).
+Join us on October 16th at CoworkGarden, starting at 18:30, for an evening dedicated to agentic coding - where AI meets IDE and your code starts writing itself (almost).
 
 We're bringing together developers who are actively using Cursor, Claude, and other AI coding tools to share real experiences, working setups, and the occasional horror story.
 
 🗓️ **Event Details:**
-📅 Thursday, August 28, 2025
+📅 Thursday, October 16, 2025
 ⏰ 18:30 - 22:00
 📍 CoworkGarden Timișoara
 🍕 Pizza & drinks included
@@ -37,7 +37,7 @@ RSVP: [lu.ma link]
 
 🤖 agentic.tm is HERE!
 
-First meetup: Aug 28 @ CoworkGarden Timișoara
+First meetup: Oct 16 @ CoworkGarden Timișoara
 
 For devs using Cursor/Claude who want to share what actually works.
 
@@ -49,7 +49,7 @@ RSVP: [link]
 
 ---
 
-## 🎤 POST 2: FIRST SPEAKER REVEAL (August 22-23)
+## 🎤 POST 2: FIRST SPEAKER REVEAL (October 10-11)
 
 ### LinkedIn/Facebook
 
@@ -67,7 +67,7 @@ As CEO of Hibyte, Alexandru has pushed the boundaries of what's possible with AI
 
 This is the kind of practical knowledge sharing we're building at agentic.tm - real engineers, real workflows, real results.
 
-📅 August 28, 18:30 @ CoworkGarden
+📅 October 16, 18:30 @ CoworkGarden
 🎟️ Still a few spots left: [link]
 
 #AgenticCoding #RealWorldAI #TimisoaraTech
@@ -82,12 +82,12 @@ Alexandru Binzar from @Hibyte will show how to use Cursor without writing a sing
 
 Setup → Context management → Live examples
 
-Aug 28 @ CoworkGarden Timișoara
+Oct 16 @ CoworkGarden Timișoara
 [link]
 
 ---
 
-## 🎤 POST 3: SECOND SPEAKER REVEAL (August 25-26)
+## 🎤 POST 3: SECOND SPEAKER REVEAL (October 13-14)
 
 ### LinkedIn/Facebook
 
@@ -106,7 +106,7 @@ As Tech Lead at The Sandbox, Vlad has battle-tested every major AI coding tool w
 
 Between Alexandru showing Cursor mastery and Vlad mapping the ecosystem, we're covering the full spectrum of agentic coding.
 
-📅 Thursday, August 28, 18:30
+📅 Thursday, October 16, 18:30
 📍 CoworkGarden Timișoara
 💻 Bring your laptop - and your opinions!
 
@@ -129,7 +129,7 @@ The state of AI coding tools in 2025 - what works, what doesn't, what's next.
 
 ---
 
-## 🔔 POST 4: FINAL REMINDER (August 27 - Day Before)
+## 🔔 POST 4: FINAL REMINDER (October 15 - Day Before)
 
 ### LinkedIn/Facebook
 
@@ -174,25 +174,25 @@ See you there 🤖
 
 ## 📱 Instagram Stories Sequence
 
-### Story 1 (Aug 19)
+### Story 1 (Oct 7)
 [Background: Code editor with AI suggestions]
 "agentic.tm launches in Timișoara"
-"Aug 28 • 18:30"
+"Oct 16 • 18:30"
 "Swipe up for details"
 
-### Story 2 (Aug 22-23)
+### Story 2 (Oct 10-11)
 [Alexandru Binzar photo/avatar]
 "Speaker reveal 🎤"
 "Alexandru Binzar from Hibyte"
 "Teaching Cursor mastery LIVE"
 
-### Story 3 (Aug 25-26)
+### Story 3 (Oct 13-14)
 [Vlad Temian photo/avatar]
 "Speaker #2 confirmed ⚡"
 "Vlad Temian from The Sandbox"
 "Ecosystem overview incoming!"
 
-### Story 4 (Aug 27)
+### Story 4 (Oct 15)
 [Countdown timer graphic]
 "TOMORROW"
 "Bring 👏 Your 👏 Laptop 👏"
@@ -202,16 +202,16 @@ See you there 🤖
 
 ## 💬 WhatsApp/Telegram Message Templates
 
-### Announcement (Aug 19)
-Hey! Launching agentic.tm - a meetup for devs using AI coding tools (Cursor, Claude, etc). First event Aug 28 @ CoworkGarden, 18:30. Sharing real setups, no BS. Pizza included. You in? [link]
+### Announcement (Oct 7)
+Hey! Launching agentic.tm - a meetup for devs using AI coding tools (Cursor, Claude, etc). First event Oct 16 @ CoworkGarden, 18:30. Sharing real setups, no BS. Pizza included. You in? [link]
 
-### Speaker Update 1 (Aug 22)
+### Speaker Update 1 (Oct 10)
 Quick update: Alexandru Binzar (CEO Hibyte) confirmed for agentic.tm! He'll show how to use Cursor without writing code. Still spots available: [link]
 
-### Speaker Update 2 (Aug 25)
+### Speaker Update 2 (Oct 13)
 Quick update: Vlad Temian (Tech Lead @ The Sandbox) confirmed! He'll map out the entire agentic coding ecosystem - tools, patterns, and what's next. Still spots available: [link]
 
-### Day Before (Aug 27)
+### Day Before (Oct 15)
 Tomorrow! agentic.tm meetup @ CoworkGarden, 18:30. Don't forget your laptop - this is hands-on. See you there! 💻
 
 ---
@@ -220,10 +220,10 @@ Tomorrow! agentic.tm meetup @ CoworkGarden, 18:30. Don't forget your laptop - th
 
 | Date | Platform | Post Type | Time |
 |------|----------|-----------|------|
-| Aug 19 | All platforms | Announcement | 10:00 |
-| Aug 22-23 | LinkedIn, Twitter | Speaker 1 | 14:00 |
-| Aug 25-26 | LinkedIn, Twitter | Speaker 2 | 14:00 |
-| Aug 27 | All platforms | Reminder | 10:00 & 18:00 |
+| Oct 7 | All platforms | Announcement | 10:00 |
+| Oct 10-11 | LinkedIn, Twitter | Speaker 1 | 14:00 |
+| Oct 13-14 | LinkedIn, Twitter | Speaker 2 | 14:00 |
+| Oct 15 | All platforms | Reminder | 10:00 & 18:00 |
 
 ## 🎯 Key Messages to Reinforce
 
