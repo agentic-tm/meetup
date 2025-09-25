@@ -19,8 +19,8 @@ We've got two engineers who actually use this stuff in production:
 Live demo showing his complete Cursor workflow - from idea to working code without typing.
 
 **Vlad Temian (Tech Lead @ The Sandbox)**
-"State of the Agentic Coding Ecosystem"
-Breaking down Cursor vs Windsurf vs Continue vs Copilot. What works, what doesn't, where it's all going.
+"Catnip for developers"
+Stories about why Claude Code and Cursor are so addictive. How we're all suddenly building more, testing faster, and actually enjoying the process.
 
 **Schedule:**
 6:30pm - Arrive, grab a name tag

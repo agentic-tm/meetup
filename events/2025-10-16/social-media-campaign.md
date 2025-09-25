@@ -21,7 +21,7 @@ We're bringing together developers who are actively using Cursor, Claude, and ot
 
 **Featured Speakers:**
 🎤 Alexandru Binzar (CEO @ Hibyte) - "How to Never Write Code Again with Cursor"
-🎤 Vlad Temian (Tech Lead @ The Sandbox) - "State of the Agentic Coding Ecosystem"
+🎤 Vlad Temian (Tech Lead @ The Sandbox) - "Catnip for developers"
 
 This isn't about hype or "the future of coding" - it's about what's working TODAY in your editor.
 
@@ -93,18 +93,18 @@ Oct 16 @ CoworkGarden Timișoara
 
 ⚡ **SPEAKER #2: Vlad Temian**
 
-Adding fire to our lineup: Vlad Temian (Tech Lead @ The Sandbox) joins us to map out the current state of the agentic coding ecosystem.
+Adding fire to our lineup: Vlad Temian (Tech Lead @ The Sandbox) joins us to share "Catnip for developers."
 
 **What Vlad Will Cover:**
-• The landscape: Cursor vs Windsurf vs Continue vs Copilot
-• Tool selection: Which AI assistant for which task?
-• Integration patterns that actually work in production
-• The ecosystem gaps nobody talks about
-• Where agentic coding is heading in the next 6 months
+• Why everyone he talks to is addicted to Claude Code and Cursor
+• Stories from developers who went from idea to launch in hours
+• How these tools changed the way we solve problems
+• Why we're suddenly creating, testing, and shipping 10x more
+• The psychological hook that keeps us coming back
 
-As Tech Lead at The Sandbox, Vlad has battle-tested every major AI coding tool while shipping Web3 infrastructure at scale.
+Vlad's been watching this phenomenon unfold at The Sandbox and across the dev community. He'll share what makes these tools irresistible.
 
-Between Alexandru showing Cursor mastery and Vlad mapping the ecosystem, we're covering the full spectrum of agentic coding.
+Between Alexandru's Cursor mastery and Vlad's addiction stories, you'll understand why AI coding feels like superpowers.
 
 📅 Thursday, October 16, 18:30
 📍 CoworkGarden Timișoara
@@ -120,9 +120,9 @@ Last spots: [link]
 
 Speaker #2 locked in 🔥
 
-Vlad Temian from @TheSandbox bringing the ecosystem overview to agentic.tm
+Vlad Temian from @TheSandbox bringing "Catnip for developers" to agentic.tm
 
-The state of AI coding tools in 2025 - what works, what doesn't, what's next.
+Why Claude Code and Cursor are so addictive. And why that's actually amazing.
 
 3 days left. Bring your laptop.
 [link]
@@ -145,7 +145,7 @@ The state of AI coding tools in 2025 - what works, what doesn't, what's next.
 18:45 - Kick-off & quick intros
 19:00 - Alexandru Binzar: "How to never write code again with Cursor"
 19:30 - Pizza break & networking
-19:45 - Vlad Temian: "State of the Agentic Coding Ecosystem"
+19:45 - Vlad Temian: "Catnip for developers"
 20:15+ - Networking & bar migration
 
 **Remember:** This is about sharing what works. No judgment on messy code, experimental setups, or "creative" solutions. We're all figuring this out together.
@@ -164,7 +164,7 @@ agentic.tm meetup #1 @ CoworkGarden
 
 Speakers:
 🎤 Alexandru Binzar (Hibyte) - Cursor mastery
-🎤 Vlad Temian (The Sandbox) - Ecosystem overview
+🎤 Vlad Temian (The Sandbox) - Catnip for developers
 
 Learn from engineers shipping production code with AI.
 
@@ -190,7 +190,7 @@ See you there 🤖
 [Vlad Temian photo/avatar]
 "Speaker #2 confirmed ⚡"
 "Vlad Temian from The Sandbox"
-"Ecosystem overview incoming!"
+"Developer catnip incoming!"
 
 ### Story 4 (Oct 15)
 [Countdown timer graphic]
@@ -209,7 +209,7 @@ Hey! Launching agentic.tm - a meetup for devs using AI coding tools (Cursor, Cla
 Quick update: Alexandru Binzar (CEO Hibyte) confirmed for agentic.tm! He'll show how to use Cursor without writing code. Still spots available: [link]
 
 ### Speaker Update 2 (Oct 13)
-Quick update: Vlad Temian (Tech Lead @ The Sandbox) confirmed! He'll map out the entire agentic coding ecosystem - tools, patterns, and what's next. Still spots available: [link]
+Quick update: Vlad Temian (Tech Lead @ The Sandbox) confirmed! He'll share "Catnip for developers" - stories about the Claude Code/Cursor addiction and why we're all shipping more than ever. Still spots available: [link]
 
 ### Day Before (Oct 15)
 Tomorrow! agentic.tm meetup @ CoworkGarden, 18:30. Don't forget your laptop - this is hands-on. See you there! 💻

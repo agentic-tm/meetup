@@ -18,8 +18,8 @@ Join us **Thursday, October 16th at 6:30pm** at CoworkGarden Timișoara.
 Live demo of his complete Cursor workflow - idea to working code without typing.
 
 **Vlad Temian (Tech Lead @ The Sandbox)**
-"State of the Agentic Coding Ecosystem"
-Cursor vs Windsurf vs Continue vs Copilot. What works where, and where it's all heading.
+"Catnip for developers"
+Why Claude Code and Cursor are so addictive. Stories from developers who can't stop creating, and how these tools changed how we solve problems.
 
 ### Schedule
 

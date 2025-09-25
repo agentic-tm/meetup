@@ -23,8 +23,8 @@ Alexandru (CEO @ Hibyte) will show his complete Cursor setup and demonstrate goi
 #### 19:30-19:45 - Pizza Break 🍕
 Food, drinks, and casual chat.
 
-#### 19:45-20:15 - Vlad Temian: "State of the Agentic Coding Ecosystem"
-Vlad (Tech Lead @ The Sandbox) breaks down the current tool landscape - Cursor vs Windsurf vs Continue vs Copilot. What works where, production patterns, and where this is all heading.
+#### 19:45-20:15 - Vlad Temian: "Catnip for developers"
+Vlad (Tech Lead @ The Sandbox) shares stories about the addictive nature of Claude Code and Cursor. Why everyone he talks to can't stop using them, how we're suddenly shipping 10x more, and why solving problems has never felt this good.
 
 #### 20:15-22:00 - Hanging Out
 Keep the conversations going. Exchange contacts, form study groups, get on Discord, maybe grab more demos from speakers. We might move to a nearby bar if people are up for it.

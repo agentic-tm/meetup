@@ -8,7 +8,7 @@ Oct 16 @ CoworkGarden, 6:30pm
 
 Two great talks lined up:
 • Alexandru Binzar (Hibyte) showing how he uses Cursor to ship code without typing
-• Vlad Temian (The Sandbox) breaking down the AI coding tool landscape
+• Vlad Temian (The Sandbox) on why Claude Code/Cursor are so addictive
 
 Free entry, pizza included. Come learn from folks who actually use this stuff daily.
 
@@ -24,7 +24,7 @@ Oct 16 @ CoworkGarden Timișoara, 6:30pm
 
 Talks:
 • Alexandru Binzar - Cursor workflows that work
-• Vlad Temian - AI coding ecosystem overview
+• Vlad Temian - Why we can't stop using Claude Code
 
 Free + pizza 🍕
 
@@ -39,7 +39,7 @@ RSVP: [link]
 **First meetup Oct 16!** 
 
 Alexandru from Hibyte will demo his Cursor setup
-Vlad from The Sandbox covers the tool ecosystem
+Vlad from The Sandbox on the Claude Code/Cursor addiction
 
 📅 Thursday Oct 16, 6:30pm
 📍 CoworkGarden Timișoara
@@ -53,7 +53,7 @@ RSVP: [lu.ma link]
 
 Hey! Organizing an AI coding meetup Oct 16 @ CoworkGarden, 6:30pm.
 
-Alexandru Binzar and Vlad Temian speaking about Cursor and the AI coding ecosystem.
+Alexandru Binzar on Cursor mastery, Vlad Temian on why these AI tools are so addictive.
 
 Free entry + pizza. You coming?
 
