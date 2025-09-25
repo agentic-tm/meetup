@@ -1,20 +1,21 @@
-# agentic.tm Meetup
+# agentic.tm
 
-Welcome to the official repository for the agentic.tm meetup community.
+Meetups for developers using AI to write code.
 
-## Repository Structure
+## Next Meetup
+**Oct 16, 2025** @ CoworkGarden Timișoara  
+- Alexandru Binzar on Cursor mastery
+- Vlad Temian on why these tools are addictive
 
-- **`/resources`** - General meetup resources and materials
-- **`/presentations`** - Slide decks and presentation materials from meetup events
-- **`/community-notes`** - Meeting notes, discussions, and community contributions
-- **`/design`** - Design assets including logos, branding materials, and visual resources
-  - `/logo` - Logo files and brand guidelines
-- **`/copy`** - Marketing copy, event descriptions, and other written content
+## What's Here
+- `/events` - Meetup planning docs
+- `/resources` - Useful stuff
+- `/community-notes` - Notes from meetups
+- `/design` - Logos and graphics
 
-## About agentic.tm
+## Join Us
+- Discord: https://discord.gg/agentic-tm
+- GitHub: https://github.com/agentic-tm
 
-agentic.tm is a meetup focused on agentic coding - exploring autonomous AI agents, code generation, and the future of AI-assisted software development. This repository serves as the central hub for all meetup resources, fostering collaboration and knowledge sharing within our community.
-
-## Contributing
-
-Community contributions are welcome! Please feel free to submit pull requests with improvements, additional resources, or corrections.
+---
+*For developers who let AI do the typing*
